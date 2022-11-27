@@ -1,3 +1,5 @@
+This implementation cannot be run directly, but it can be directly used by other programmed games that want to use these entities.
+
 The rank for Bomb: 0
 The rank for Spy: -1
 The rank for Flag: -2
