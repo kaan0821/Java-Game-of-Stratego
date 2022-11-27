@@ -1,0 +1,7 @@
+The rank for Bomb: 0
+The rank for Spy: -1
+The rank for Flag: -2
+
+In Square.java, I implemented a new method isEnemy(). It checks whether the piece on the target square is an enemy (ie,belongs to the opponent)
+
+In Piece.java, I implemented a new method getAdjacentSquares(). It returns all the adjacent square from four directions, doesn't check if occupied or is water.
